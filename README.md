@@ -1,4 +1,4 @@
-# LIDAR-Grid-Visualizer
+# LIDAR Grid Visualizer
 This project provides a Python implementation for converting LIDAR (range) measurements to an occupancy grid map. The occupancy grid map is a popular probabilistic representation of the environment, which discretizes the space into a grid and indicates whether each grid cell is occupied, free, or unknown.
 
 ## Overview
